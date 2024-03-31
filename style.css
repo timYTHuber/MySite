@@ -14,7 +14,7 @@ p {
   font-size: 32px;
 }
 .opacityanim {
-  animation: appeare 2s linear 1;
+  animation: appeare 5s linear 1;
 }
 @keyframes appeare {
   from {
